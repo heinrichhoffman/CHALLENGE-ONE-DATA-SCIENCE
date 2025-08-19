@@ -1,42 +1,4 @@
-Este projeto tem como objetivo realizar uma análise detalhada dos dados de vendas da Alura Store, buscando entender padrões de comportamento de compra, tendências de produtos e o impacto de promoções e datas especiais nas vendas. 📈
-</p>
-
-<p align="center">
-  <a href="#-como-usar">🧠 Como Usar</a> |
-  <a href="#-tecnologias">🛠 Tecnologias</a> |
-  <a href="#-estrutura-do-projeto">📁 Estrutura do Projeto</a> |
-  <a href="#-insights-obtidos">🔍 Insights Obtidos</a>
-</p>
-
-## 🧠 Como Usar
-
-Para rodar este projeto, você precisa ter o **Jupyter Notebook** ou **Google Colab** instalado.
-
-1. Clone este repositório em sua máquina:
-    ```bash
-    git clone https://github.com/JosianeCMagalhaes/challenge-alura-store-data-science.git
-    ```
-2. Acesse o diretório:
-    ```bash
-    cd challenge-alura-store-data-science
-    ```
-3. Abra o notebook **AluraStoreBr.ipynb** no Jupyter:
-    ```bash
-    jupyter notebook AluraStoreBr.ipynb
-    ```
-
-Ou, se preferir, use **Google Colab** para executar os notebooks diretamente na web.
-
-## 🛠 Tecnologias
-
-Este projeto foi desenvolvido com as seguintes tecnologias:
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-FAFAFA?style=for-the-badge&logo=jupyter&logoColor=F37626)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=matplotlib&logoColor=white)
-
-## 📁 Estrutura do Projeto
+Este projeto tem como objetivo realizar uma análise detalhada dos dados de vendas da Alura Store, buscando entender padrões de comportamento de compra, tendências de produtos e o impacto de promoções e datas especiais nas vendas. 
 
 ├── base-de-dados-challenge-1 `Pasta com o arquivo de base de dados`
 
@@ -45,9 +7,6 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 
 └── README.md `Este arquivo`
-
-
-## 🔍 Insights Obtidos
 
 A análise realizada busca entender diversos aspectos dos dados de vendas da Alura Store. Entre os principais insights:
 
