@@ -1,11 +1,4 @@
-# Alura Store - Análise de Dados 📊
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=480&height=50&duration=4000&lines=An%C3%A1lise+de+Vendas+e+Desempenho+%F0%9F%93%8A!" alt="Análise de Vendas e Desempenho"/>
-</div>
-
-<p align="center">
-  Este projeto tem como objetivo realizar uma análise detalhada dos dados de vendas da Alura Store, buscando entender padrões de comportamento de compra, tendências de produtos e o impacto de promoções e datas especiais nas vendas. 📈
+Este projeto tem como objetivo realizar uma análise detalhada dos dados de vendas da Alura Store, buscando entender padrões de comportamento de compra, tendências de produtos e o impacto de promoções e datas especiais nas vendas. 📈
 </p>
 
 <p align="center">
@@ -45,15 +38,11 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 📁 Estrutura do Projeto
 
-O projeto contém a seguinte estrutura de diretórios e arquivos:
-
 ├── base-de-dados-challenge-1 `Pasta com o arquivo de base de dados`
 
-├── .gitignore `Arquivo para ignorar arquivos desnecessários`
 
 ├── AluraStoreBr.ipynb `Jupyter Notebook com a análise de dados`
 
-├── LICENSE `Licença do projeto`
 
 └── README.md `Este arquivo`
 
@@ -84,24 +73,9 @@ Aqui estão alguns gráficos gerados durante a análise:
   
   ![Participação de Cada Loja nas Receitas Totais](https://github.com/user-attachments/assets/8a3e875d-eb76-4c64-ab83-dac213c06289)
 
-## 🏅 Certificação
 
-Fui reconhecida com a seguinte Badge pelo programa ONE (Oracle Next Education), uma iniciativa da Alura Latam em parceria com a Oracle:
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c01f07c6-8970-444b-ba91-c116f494bb03" alt="Badge Oracle Next Education">
-</p>
 
-### 🎓 Destaque
 
-[![Alura](https://img.shields.io/badge/Alura-0073CE?style=for-the-badge&logoColor=white)](https://www.alura.com.br/)
-[![Oracle](https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logoColor=white)](https://www.oracle.com/br/)
 
-## 💜 Créditos e Agradecimentos
 
-Quero agradecer à **Alura Latam** e à **Oracle** pelo conhecimento compartilhado e pelas oportunidades proporcionadas por meio do programa **[ONE - Oracle Next Education](https://www.oracle.com/br/education/oracle-next-education/)**.
-
-## 👩🏻‍💻 Autora
-
-| [<img loading="lazy" src="https://github.com/JosianeCMagalhaes.png" width=115><br><sub>Josiane Magalhães</sub>](https://github.com/JosianeCMagalhaes) |
-| :---: |
